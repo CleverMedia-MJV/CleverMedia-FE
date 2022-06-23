@@ -5,7 +5,7 @@ import MainPage from "./pages/MainPage";
 
 export default function App() {
   return (
-    <div data-theme="mytheme" className="bg-base-300">
+    <div data-theme="mytheme" className="bg-base-100">
       <Routes>
         <Route exact path="/" element={<HomePage />} />
         <Route path="/main" element={<MainPage />} />

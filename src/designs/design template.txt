@@ -1,0 +1,5 @@
+from the tailwind config
+body background  = bg-base-100
+mainpages background = neutral
+text colors = text-slate-300
+icons colors = info
